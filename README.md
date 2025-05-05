@@ -4,7 +4,7 @@ A collection of hands-on labs created in Cisco Packet Tracer to help students an
 
 Each lab focuses on real-world scenarios and core networking topics such as IPv4/IPv6 configuration, routing, switching, DHCP, ACLs, VLANs, and more.
 
-You will find the challenge lab in the "start-labname" file and the solution in the "solution-labname" file.
+You will find the challenge lab in the "labname-start" file and the solution in the "labname-solution" file.
 
 # 📜 License
 
